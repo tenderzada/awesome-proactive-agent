@@ -18,6 +18,7 @@ resources/       # 相关资源（数据集、工具、代码库）
 
 | 日期 | 论文 | 关键词 | 文案 |
 |------|------|--------|------|
+| 2026-04 | [PASK: Toward Intent-Aware Proactive Agents with Long-Term Memory](https://arxiv.org/abs/2604.08000) | 主动式智能体, 隐性需求检测, 长期记忆 | [文案](papers/2604.08000_PASK.md) |
 | 2026-04 | [PARE: Simulating Active Users to Evaluate Proactive Assistants](https://arxiv.org/abs/2604.00842) | 主动式智能体, 用户模拟, 评估基准 | [文案](papers/2604.00842_PARE.md) |
 
 ## 领域发展脉络
